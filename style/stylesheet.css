@@ -1,0 +1,203 @@
+*
+{
+  box-sizing: border-box;
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+body
+{
+ background-color: #e1e0df;
+ display: flex;
+ flex-direction: column;
+ align-items: center;
+ justify-content: center;
+}
+ul
+{
+    list-style-type: none;
+}
+.container
+{
+width: 1440px;
+height: 115px;
+background-color: #fff;
+display: flex;
+align-items: center;
+
+  
+}
+.list
+{
+  
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  list-style-type: none;
+  ;
+   
+}
+
+.list-items
+{
+  background-color: #fff;
+  display: flex;    
+  flex-wrap: wrap; 
+  justify-content: center;
+    margin-right: 30px;
+}
+
+.list-img
+{
+    margin-left: 75px;
+    margin-right: 65px;
+}
+
+.list-links{
+    text-decoration: none;
+    color: #000;
+}
+.list-journal
+{
+    margin-left: 351px;
+    border: 1px solid #000; 
+    border-top:none;
+    border-bottom: none;
+    border-left: none;
+    padding-right: 13px;
+}
+.list-search
+{
+   margin-left: 13px;
+}
+
+.list-login
+{
+    margin-left: 30px;
+    border: 1px solid #000; 
+    border-top:none;
+    border-bottom: none;
+    border-left: none;
+    padding-right: 13px;
+}
+
+.list-savat
+{
+    margin-left: 13px;
+}
+
+.body-image
+{
+    background-image: url(/img/Rectangle.svg);
+    width: 1440px;
+    height: 600px;
+    
+}
+
+.body-list
+{
+    color: #fff;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    
+    margin-top: 517px;
+    margin-left: 140px;
+}
+
+.body-link
+{
+    color: #fff;
+    list-style-type: none;
+}
+.footer
+{
+    width: 1440px;
+    height: 359px;
+    background-color: #fff;
+    display: flex;
+    align-items: center;
+   
+}
+
+.a
+{
+    list-style-type: none;
+   
+}
+
+.footer-a
+{
+    margin-top: 15px;
+    margin-left: 140px;
+   
+}
+
+.link-a
+{
+    text-decoration: none;
+    color: #000;
+}
+
+.b 
+{
+    width: 500px;
+    list-style-type: none;
+}
+
+.booter-b
+{
+    margin-top: 15px;
+    margin-left: 140px;
+}
+.link-b
+{
+    text-decoration: none;
+    color: #000;
+}
+
+.c 
+{
+    width: 825px;
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    margin-right: 220px;
+    margin-bottom: 150px;
+  
+   
+}
+.footer-ca
+{
+    position: relative;
+    right: -59px;
+}
+.img-logo
+{
+    margin-left: 16px;
+}
+
+.footer-c
+{
+    
+   margin-top: 10px;
+    text-align: right;
+}
+.text
+{
+    width: 260px;
+    text-align: right;
+    
+}
+
+group
+{
+    position: relative;
+top:75px; left: 20px;
+   
+}
+
+logo 
+{
+    position: relative;
+    top: 50px; left: 80px;
+}
