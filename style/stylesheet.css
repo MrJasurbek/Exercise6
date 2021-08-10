@@ -86,7 +86,7 @@ align-items: center;
 
 .body-image
 {
-    background-image: url(/img/Rectangle.svg);
+    background-image: url("./img/rectangle.png");
     width: 1440px;
     height: 600px;
     
